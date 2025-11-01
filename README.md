@@ -60,8 +60,8 @@ PRIVATE_KEY="Generated private key from the previous comman"
 ARC_TESTNET_RPC_URL="https://rpc-testnet.arc.market"
 
 # (only for minting later)
-TOKEN_ADDRESS=0xYourTokenAddressHere
-RECIPIENT=0xYourWalletAddressHere
+TOKEN_ADDRESS="0xYourTokenAddressHere"
+RECIPIENT="0xYourWalletAddressHere"
 ```
 Save (Ctrl + S).
 
