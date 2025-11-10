@@ -42,7 +42,7 @@ forge install openzeppelin/openzeppelin-contracts
 ```
 ---
 
-## 3. Add your token contract
+## 3. Remove existing token contract
 > First, delete the default `Counter.sol` template file from the `/src` directory:
 ```bash
 rm src/Counter.sol
